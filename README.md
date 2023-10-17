@@ -3,7 +3,7 @@ Health Care is a desktop application developed in Winform. This application help
 
 Login and registration window:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/cbf24e38-7f7d-4db4-a1e3-19f47ced5ad6)
+![23](https://github.com/Maxsetovich/health-care/assets/107585969/2a2801b2-148b-4418-8612-75c03de59765)
 
 This is the main window:
 
