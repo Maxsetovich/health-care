@@ -7,7 +7,7 @@ Login and registration window:
 
 This is the main window:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/79ed7d20-fcb2-4301-89f9-dcf19ea081c2)
+![main1](https://github.com/Maxsetovich/health-care/assets/107585969/7aaa8ca1-fa9a-49b1-88dc-52748435935b)
 
 Window for entering the patient's daily mood:
 
