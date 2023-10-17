@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Release\Hospital project.exe.config
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Release\Hospital project.exe
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Release\Hospital project.pdb
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Release\Guna.UI2.dll
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Release\XanderUI.dll
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.FormLogin.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Izohlar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Jismoniy_faollik.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Kayfiyat.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.MenuForm.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Ovqatlar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Qabul_qilingan_dorilari.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Qon_bosimi.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Simptomlar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.UC_Asosiy.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.UC_Natijalar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.UC_Profil.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.UmumiyAhvoli.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Forms.Uyqusi.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital_project.Properties.Resources.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital project.csproj.CopyComplete
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital project.exe
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Release\Hospital project.pdb

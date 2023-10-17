@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2CD3542C-C95B-4EFE-8869-02EE4BADE207}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hospital_project</RootNamespace>
+    <AssemblyName>Hospital project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>healthcare.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.4\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="XanderUI">
+      <HintPath>..\..\..\Downloads\XanderUI\XanderUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Izohlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Izohlar.Designer.cs">
+      <DependentUpon>Izohlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Jismoniy faollik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Jismoniy faollik.Designer.cs">
+      <DependentUpon>Jismoniy faollik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Kayfiyat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Kayfiyat.Designer.cs">
+      <DependentUpon>Kayfiyat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ovqatlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ovqatlar.Designer.cs">
+      <DependentUpon>Ovqatlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Qabul qilingan dorilari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Qabul qilingan dorilari.Designer.cs">
+      <DependentUpon>Qabul qilingan dorilari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Qon bosimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Qon bosimi.Designer.cs">
+      <DependentUpon>Qon bosimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Simptomlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Simptomlar.Designer.cs">
+      <DependentUpon>Simptomlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UC_Asosiy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UC_Asosiy.Designer.cs">
+      <DependentUpon>UC_Asosiy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UC_Natijalar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UC_Natijalar.Designer.cs">
+      <DependentUpon>UC_Natijalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UC_Profil.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UC_Profil.Designer.cs">
+      <DependentUpon>UC_Profil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UmumiyAhvoli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UmumiyAhvoli.Designer.cs">
+      <DependentUpon>UmumiyAhvoli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Uyqusi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Uyqusi.Designer.cs">
+      <DependentUpon>Uyqusi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Users.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Izohlar.resx">
+      <DependentUpon>Izohlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Jismoniy faollik.resx">
+      <DependentUpon>Jismoniy faollik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Kayfiyat.resx">
+      <DependentUpon>Kayfiyat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ovqatlar.resx">
+      <DependentUpon>Ovqatlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Qabul qilingan dorilari.resx">
+      <DependentUpon>Qabul qilingan dorilari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Qon bosimi.resx">
+      <DependentUpon>Qon bosimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Simptomlar.resx">
+      <DependentUpon>Simptomlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UC_Asosiy.resx">
+      <DependentUpon>UC_Asosiy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UC_Natijalar.resx">
+      <DependentUpon>UC_Natijalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UC_Profil.resx">
+      <DependentUpon>UC_Profil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UmumiyAhvoli.resx">
+      <DependentUpon>UmumiyAhvoli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Uyqusi.resx">
+      <DependentUpon>Uyqusi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Icons\icons8-x.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\umumiy ahvoli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Icons\sad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Icons\bad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Icons\middle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Icons\happy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Icons\happiest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smile2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jogging1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jogging2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blood1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blood2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sleeping.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sleeping2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comment1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comment2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simptom1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simptom2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asosiy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AsosiyTop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Temp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shifokor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jamoa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\location.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="healthcare.ico" />
+    <None Include="Resources\tw3.png" />
+    <None Include="Resources\tw2.png" />
+    <None Include="Resources\facebook %282%29.png" />
+    <None Include="Resources\instagram %282%29.png" />
+    <None Include="Resources\twitter %281%29.png" />
+    <None Include="Resources\facebook %281%29.png" />
+    <None Include="Resources\instagram %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

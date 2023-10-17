@@ -1,0 +1,113 @@
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Debug\Hospital project.exe.config
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Debug\Hospital project.exe
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Debug\Hospital project.pdb
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Properties.Resources.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital project.exe
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital project.pdb
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.FormLogin.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.MenuForm.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.CopyComplete
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UmumiyAhvoli.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Ovqatlar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Debug\XanderUI.dll
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Kayfiyat.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Jismoniy_faollik.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Uyqusi.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Simptomlar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Qon_bosimi.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Izohlar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Qabul_qilingan_dorilari.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Asosiy.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Natijalar.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Profil.resources
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Hospital project\Hospital project\bin\Debug\Newtonsoft.Json.xml
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Hospital project.exe.config
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Hospital project.exe
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Hospital project.pdb
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Guna.UI2.dll
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Newtonsoft.Json.dll
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Newtonsoft.Json.xml
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.AssemblyReference.cache
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.SuggestedBindingRedirects.cache
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.FormLogin.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Izohlar.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Jismoniy_faollik.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Kayfiyat.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.MenuForm.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Ovqatlar.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Qabul_qilingan_dorilari.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Qon_bosimi.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Simptomlar.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Asosiy.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Natijalar.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Profil.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UmumiyAhvoli.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Uyqusi.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Properties.Resources.resources
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.GenerateResource.cache
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.CoreCompileInputs.cache
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.CopyComplete
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.exe
+D:\Sherzod\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.pdb
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Hospital project.exe.config
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Hospital project.exe
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Hospital project.pdb
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.FormLogin.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Izohlar.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Jismoniy_faollik.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Kayfiyat.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.MenuForm.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Ovqatlar.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Qabul_qilingan_dorilari.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Qon_bosimi.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Simptomlar.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Asosiy.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Natijalar.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UC_Profil.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.UmumiyAhvoli.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Forms.Uyqusi.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital_project.Properties.Resources.resources
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.csproj.CopyComplete
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.exe
+C:\Users\User\Desktop\Tibbiy kundalik\Hospital project\Hospital project\obj\Debug\Hospital project.pdb
+C:\Users\User\Desktop\health-care\Hospital project\bin\Debug\Hospital project.exe.config
+C:\Users\User\Desktop\health-care\Hospital project\bin\Debug\Hospital project.exe
+C:\Users\User\Desktop\health-care\Hospital project\bin\Debug\Hospital project.pdb
+C:\Users\User\Desktop\health-care\Hospital project\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\health-care\Hospital project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\health-care\Hospital project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.FormLogin.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Izohlar.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Jismoniy_faollik.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Kayfiyat.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.MenuForm.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Ovqatlar.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Qabul_qilingan_dorilari.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Qon_bosimi.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Simptomlar.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.UC_Asosiy.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.UC_Natijalar.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.UC_Profil.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.UmumiyAhvoli.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Forms.Uyqusi.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital_project.Properties.Resources.resources
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital project.csproj.CopyComplete
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital project.exe
+C:\Users\User\Desktop\health-care\Hospital project\obj\Debug\Hospital project.pdb
