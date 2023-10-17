@@ -11,25 +11,25 @@ This is the main window:
 
 Window for entering the patient's daily mood:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/0c867c50-b6d4-49b5-9689-13c17c52ae97)
+![17](https://github.com/Maxsetovich/health-care/assets/107585969/b1a07758-dc37-4b0e-87d3-171266d470d9)
 
 This window about what medicines the patient took, the amount of medicine and how many times a day he took it:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/a60e5e56-2dd3-4b8f-986b-03e8bb460c81)
+![27](https://github.com/Maxsetovich/health-care/assets/107585969/3fe47d6a-2c81-447f-86ce-5755f10b0f58)
 
 In this place, the patient should enter blood pressure twice a day:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/fa01db86-dec7-4d8b-be19-d6c99081de71)
+![37](https://github.com/Maxsetovich/health-care/assets/107585969/a563eb06-b262-4506-9bed-6d6ff8fd0a6b)
 
 Place of choice if symptoms are observed during the day:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/8a8fbeae-646f-4efe-a2d7-50f24a0e2b4e)
+![47](https://github.com/Maxsetovich/health-care/assets/107585969/29f6f414-3269-4336-8f66-faabdebe2c2c)
 
 Comment window to the doctor:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/28c6c878-2292-41ed-a402-0b92032f7107)
+![57](https://github.com/Maxsetovich/health-care/assets/107585969/8ef059c9-969e-4b4e-b74b-9fe86260f172)
 
 Statistics about the patient's condition during the day:
 
-![image](https://github.com/Maxsetovich/health-care/assets/107585969/c3e75918-51d9-4457-822b-f74c46863815)
+![67](https://github.com/Maxsetovich/health-care/assets/107585969/7f11f4bc-8dba-4ed1-9fc6-c40960b92ed0)
 
